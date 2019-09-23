@@ -2,7 +2,7 @@
 layout: post
 title: Match Preview
 subtitle: Liverpool, under Klopp, away to big 6
-image: /img/hello_world.jpeg
+image: /img/soccer-ball-variant.png
 tags: [Liverpool, Chelsea]
 ---
 
@@ -44,6 +44,6 @@ I will come up with an analysis of Liverpool’s offensive numbers away to “bi
 
 For more such analysis & numbers, 
 
-Follow: https://twitter.com/footytistics
+Follow: [https://twitter.com/footytistics](https://twitter.com/footytistics)
 
-Follow: https://www.instagram.com/footytistics/
+Follow: [https://www.instagram.com/footytistics/](https://www.instagram.com/footytistics/)
