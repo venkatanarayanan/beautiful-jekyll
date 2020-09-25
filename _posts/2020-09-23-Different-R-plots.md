@@ -19,3 +19,9 @@ Jose Mourinho's teams are usually known for defending deep and counter-attacking
 ![spurs-pressing-v-everton](/img/epl_2021/spurs_press.gif)
 
 The above gif was created using gganimate and the code can be found [here](https://github.com/venkatanarayanan/football-animated-plots/tree/master/Spurs_Everton_13092020)
+
+# Visualizing the Marcus Rashford and Daniel James partnership in Premier League 2019/20
+
+Manchester United signed Daniel James from Swansea City in the summer of 2019. James scored in three of his first four league games as a Manchester United player but his form slowly detoriated over the course of the season and he did not score after that. However, he ended the season with 6 assists, only behind Marcus Rashford & January signing Bruno Fernandes. Four of his six assists in the league came for Marcus Rashford. Here is a visualization I created to revisit their the goals assisted by Daniel James for Marcus Rashford.
+
+![rashford_james_partnership](/img/plots/epl_1920/rashford_james_partnership.png)
