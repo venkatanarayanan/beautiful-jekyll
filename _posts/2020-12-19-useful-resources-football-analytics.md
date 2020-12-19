@@ -18,7 +18,13 @@ Possession Value and Expected Threat are some of the very recently evolved metri
 
 [Nandy](https://twitter.com/nandy_sd) also very recently posted about how to incorporte xT/PV into your passing data using R. You can find it [here](https://twitter.com/nandy_sd/status/1339871712205127680?s=20).
 
-While reading articles or going through some football related tweets, some of the terms can be new to us and we might not know what some of the advanced metrics mean. So, If you want to know the definitions of various metrics, this [article](https://thefutebolist.wordpress.com/stat-glossary/) by Dundee United's Scout ([working remotely from India](https://www.eveningtelegraph.co.uk/fp/dundee-united-ashwin-raman-analysis-scout/)) - [Ashwin Raman](https://twitter.com/AshwinRaman_). [Ashwin](https://twitter.com/AshwinRaman_)has also contributed to another Glossary [article](https://footballstatsglossary.home.blog/) in collaboration with [Mark Thompson](https://twitter.com/EveryTeam_Mark).
+While reading articles or going through some football related tweets, some of the terms can be new to us and we might not know what some of the advanced metrics mean. So, If you want to know the definitions of various metrics, this [article](https://thefutebolist.wordpress.com/stat-glossary/) by Dundee United's Scout ([working remotely from India](https://www.eveningtelegraph.co.uk/fp/dundee-united-ashwin-raman-analysis-scout/)) - [Ashwin Raman](https://twitter.com/AshwinRaman_). [Ashwin](https://twitter.com/AshwinRaman_) has also contributed to another Glossary [article](https://footballstatsglossary.home.blog/) in collaboration with [Mark Thompson](https://twitter.com/EveryTeam_Mark).
+
+Some of us prefer video content over written lengthy resources. If you are that kind you should probably check out [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/videos) youtube channel. From how to get started on football analytics to how to make a name for yourself, they almost teach you everything. You can also checkout their github repository [here](https://github.com/Friends-of-Tracking-Data-FoTD).
+
+
+Each one of us have a league prefernce to do our analysis. I analyse mostly the Premier League and [@DrMukherjeeS](https://twitter.com/DrMukherjeeS) mostly posts amazing content about the Beligan league but if you ever wanna become a football scout/analyst, it is only fair that you know about players from different leagues. The top leagues are almost broadcasted in every country but most of us do not know where to watch some of the games of the lower leagues. This [thread](https://twitter.com/NinadB_06/status/1332377583925641216?s=20) by [Ninad](https://twitter.com/NinadB_06) is here to help you. Ninad also posts some amazing Tableau content in his twitter profile.
+
 
 
 
