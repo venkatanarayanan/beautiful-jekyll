@@ -18,10 +18,10 @@ You can find Eric's tweet about Positional Rotations [here](https://twitter.com/
 
 # Third-man movements
 
-![third-man-movements](/img/everton_analysis/third_man_movements.png)
+![third-man-movements](/img/eric_laurie/third_man_movements.png)
 
 You can find Eric's tweet about Third-man movements [here](https://twitter.com/EricLaurie/status/1341740185520918530?s=20)
 
-Please not that all the above visualizations were created by [Eric](https://twitter.com/EricLaurie) and I am just putting all in a single place. Eric himself will create a Glossary soon, that will be quite different to this one.
+Please note that all the above visualizations were created by [Eric](https://twitter.com/EricLaurie) and I am just putting all in a single place. Eric himself will create a Glossary soon, that will be quite different to this one.
 
-Give Eric a follow on Twitter :)
+Give Eric a follow on Twitter at [@EricLaurie](https://twitter.com/EricLaurie) :)
