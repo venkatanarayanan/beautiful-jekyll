@@ -20,7 +20,7 @@ You can find Eric's tweet about Positional Rotations [here](https://twitter.com/
 
 ![third-man-movements](/img/eric_laurie/third_man_movements.png)
 
-You can find Eric's tweet about Third-man movements [here](https://twitter.com/EricLaurie/status/1341740185520918530?s=20)
+You can find Eric's tweet about Third-man movements [here](https://twitter.com/EricLaurie/status/1341823082965708801?s=20)
 
 Please note that all the above visualizations were created by [Eric](https://twitter.com/EricLaurie) and I am just putting all in a single place. Eric himself will create a Glossary soon, that will be quite different to this one.
 
