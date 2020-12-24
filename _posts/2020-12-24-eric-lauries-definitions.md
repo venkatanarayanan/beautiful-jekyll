@@ -18,7 +18,7 @@ You can find Eric's tweet about Positional Rotations [here](https://twitter.com/
 
 # Third-man movements
 
-![third-man-movements](/img/everton_analysis/third_man_movements.png)
+![third-man-movements](/img/eric_laurie/third_man_movements.png)
 
 You can find Eric's tweet about Third-man movements [here](https://twitter.com/EricLaurie/status/1341740185520918530?s=20)
 
