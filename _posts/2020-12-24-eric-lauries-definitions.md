@@ -22,6 +22,55 @@ You can find Eric's tweet about Positional Rotations [here](https://twitter.com/
 
 You can find Eric's tweet about Third-man movements [here](https://twitter.com/EricLaurie/status/1341823082965708801?s=20)
 
+# Advantages and Disadvantages of the 4-4-2 Formation
+
+![4-4-2-formation](/img/eric_laurie/4-4-2.png)
+
+You can find Eric's tweet about the advantages and disadvatages of the 4-4-2 formation [here](https://twitter.com/EricLaurie/status/1342003111230115841?s=20)
+
+# Advantages and Disadvantages of the 4-3-3 Formation
+
+![4-3-3-formation](/img/eric_laurie/4-3-3.png)
+
+You can find Eric's tweet about the advantages and disadvatages of the 4-3-3 formation [here](https://twitter.com/EricLaurie/status/1342119035270541313?s=20)
+
+# Advantages and Disadvantages of the 4-2-3-1 Formation
+
+![4-2-3-1-formation](/img/eric_laurie/4-2-3-1.png)
+
+You can find Eric's tweet about the advantages and disadvatages of the 4-2-3-1 formation [here](https://twitter.com/EricLaurie/status/1342405452236251136?s=20)
+
+# Advantages and Disadvantages of the 3-5-2 Formation
+
+![3-5-2-formation](/img/eric_laurie/3-5-2.png)
+
+You can find Eric's tweet about the advantages and disadvatages of the 3-5-2 formation [here](https://twitter.com/EricLaurie/status/1342477838113529856?s=20)
+
+# Advantages and Disadvantages of the 3-4-3 Formation
+
+![3-4-3-formation](/img/eric_laurie/3-4-3.png)
+
+You can find Eric's tweet about the advantages and disadvatages of the 3-4-3 formation [here](https://twitter.com/EricLaurie/status/1342757014645190658?s=20)
+
+# Cover Shadow
+
+![cover-shadow](/img/eric_laurie/cover-shadow.png)
+
+You can find Eric's tweet where he explains about Cover Shadow [here](https://twitter.com/EricLaurie/status/1342912169785044992?s=20)
+
+# Half Space
+
+![half-space](/img/eric_laurie/half-space.png)
+
+You can find Eric's tweet where he explains about Half Space [here](https://twitter.com/EricLaurie/status/1343094511745052673?s=20)
+
+# Half Turn
+
+![half-turn](/img/eric_laurie/half-turn.png)
+
+You can find Eric's tweet where he explains about Half Turn [here](https://twitter.com/EricLaurie/status/1343204557942358017?s=20)
+
 Please note that all the above visualizations were created by [Eric](https://twitter.com/EricLaurie) and I am just putting all in a single place. Eric himself will create a Glossary soon, that will be quite different to this one.
 
 Give Eric a follow on Twitter at [@EricLaurie](https://twitter.com/EricLaurie) :)
+
