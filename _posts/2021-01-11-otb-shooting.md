@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A statiscial data analysis to find the best shooters from Outside the box
+title: A statistical data analysis to find the best shooters from Outside the box
 subtitle: 
 image: /img/soccer-ball-variant.png
 tags: [Visualizations, Data Analytics, Analytics, Football Analysis]
