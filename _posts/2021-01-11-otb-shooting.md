@@ -176,10 +176,24 @@ To finish off this analysis, here is a visualisation (Figure 10) showing the sho
   </figcaption>
 </figure>
 
+The following table ( Figure 11) shows some other notable players who missed out in the previous tables.
+
+<figure style = "display: inline-block;">
+  <img
+  style = "vertical-align: top;"
+  src="/img/otb_shooting/notable_players.png"
+  alt="notable-players">
+  <figcaption style = "text-align: center;">
+    <b>
+      <i>Figure 11 - Some other popular players and their values</i>
+    </b>
+  </figcaption>
+</figure>
+
 ***Note:*** *All the data used in this analysis was obtained from understat.com. Shots only beyond half line were considered. Please reach out to me via twitter [(@VenkyReddevil)](https://twitter.com/VenkyReddevil) in case you have any suggestions or if you find any mistakes in this and my apologies if you do find any mistakes.*
 
 ***How am planning to improve this research in the future?***
-T*his article now is more generic and a lot of importance has not been given to the end product and conversion from each zone outside the box. To find the exact ‘Shooting Strength Zone’ of each player is the next step in this research.*
+T*his article now is more generic and a lot of importance has not been given to the end product and conversion from each zone outside the box. To find the exact ‘Shooting Strength Zone’ of each player is the next step in this research. I am also planning to make it more league specific and team specific in the future.*
 
 Follow me on twitter if you like my work - [@VenkyReddevil](https://twitter.com/VenkyReddevil). Email me at venkatanarayanan22@gmail.com if you have any queries or suggestions about my work
 
