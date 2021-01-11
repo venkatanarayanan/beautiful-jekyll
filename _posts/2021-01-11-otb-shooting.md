@@ -12,8 +12,18 @@ While watching a game of football, we all love to see a shot from outside the bo
 
 Before we delve deeper into this analysis, the following visualisation (Figure 1) shows all shots taken from outside the box through open play, since 2014, by players who are actively playing in Europe’s top 5 leagues.
 
-![shots-from_outside-the-box-all-years](/img/otb_shooting/otb_plot.png)
-***Figure 1 - Open Play shots from outside the box since 2014***
+
+<figure>
+  <img
+  src="/img/otb_shooting/otb_plot.png"
+  alt="shots-from_outside-the-box-all-years">
+  <figcaption>
+  	<b>
+  		<i>Figure 1 - Open Play shots from outside the box since 2014</i>
+  	</b>
+  </figcaption>
+</figure>
+
 
 That’s 54335 shots from outside the box from open play - roughly 40% of the overall open play shots have come from outside the box in Europe’s top 5 leagues since the 2014/15 season.
 
