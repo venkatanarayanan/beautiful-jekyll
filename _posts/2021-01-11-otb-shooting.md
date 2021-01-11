@@ -13,11 +13,12 @@ While watching a game of football, we all love to see a shot from outside the bo
 Before we delve deeper into this analysis, the following visualisation (Figure 1) shows all shots taken from outside the box through open play, since 2014, by players who are actively playing in Europe’s top 5 leagues.
 
 
-<figure>
+<figure style = "display: inline-block;">
   <img
+  style = "vertical-align: top;"
   src="/img/otb_shooting/otb_plot.png"
   alt="shots-from_outside-the-box-all-years">
-  <figcaption>
+  <figcaption style = "text-align: center;">
   	<b>
   		<i>Figure 1 - Open Play shots from outside the box since 2014</i>
   	</b>
