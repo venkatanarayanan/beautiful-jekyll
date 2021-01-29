@@ -2,7 +2,7 @@
 layout: post
 title: Everton - Season so far
 subtitle: Analyzing Everton's performances so far
-image: /img/soccer-ball-variant.png
+image: /img/everton_analysis/everton.png
 tags: [Everton, Team Analysis]
 ---
 
