@@ -15,7 +15,7 @@ So let's come to the purpose of this article. Have you seen somebody create a Ra
 <figure style = "display: inline-block;">
   <img
   style = "vertical-align: top;"
-  src="/img/otb_shooting/wes-agar-radar.png"
+  src="/img/cricket/wes-agar-radar.png"
   alt="wes-agar-radar">
   <figcaption style = "text-align: center;">
   	<b>
