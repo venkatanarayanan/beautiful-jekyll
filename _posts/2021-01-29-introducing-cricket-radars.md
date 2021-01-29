@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Cricket Radars
 subtitle: 
-image: 
+image: /img/cricket/polar_chart.png
 tags: [Visualizations, Data Analytics, Analytics, Cricket Analysis]
 ---
 
